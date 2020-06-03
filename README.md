@@ -1,3 +1,3 @@
-[![Build Status](https://travis-ci.com/AntonGrigorev/lab05.svg?branch=master)](https://travis-ci.com/AntonGrigorev/lab05)
+[![Build Status](https://travis-ci.com/AntonGrigorev/lab06.svg?branch=master)](https://travis-ci.com/AntonGrigorev/lab06)
 
- this is lab05
+ this is lab06
